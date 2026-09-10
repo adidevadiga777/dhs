@@ -1,7 +1,7 @@
 import React from "react";
 import ScrollFrameSequence from "../components/animations/ScrollFrameSequence";
 import Hero from "../components/home/Hero";
-import Info from "../components/home/info";
+import Info from "../components/home/Info";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
